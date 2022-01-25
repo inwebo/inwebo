@@ -1,16 +1,22 @@
-### Hi there 👋
+# Bonjour le 🌍
 
-<!--
-**inwebo/inwebo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Inwebo veritas
 
-Here are some ideas to get you started:
+Probably `Pliny the Elder`, circa ~350 before J-C Van Damme.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ❤
+
+- OOP
+- PHP 8.1 & SPL
+- TypeScript
+- Node in fact Nestjs
+- GIT
+- Ecma script 6
+- npm
+- Packagist
+- PHPStorm
+- Webpack
+
+## Bienvenue
+
+<a href="https://wwww.julien-hannotin.fr">I am</a> 
