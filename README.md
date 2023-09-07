@@ -7,7 +7,7 @@ Probably `Pliny the Elder`, circa ~350 before J-C Van Damme.
 ## ❤
 
 - OOP
-- PHP 8.1 & SPL
+- PHP 8.2 & SPL
 - TypeScript
 - Node in fact Nestjs
 - GIT
