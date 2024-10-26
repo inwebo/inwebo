@@ -4,7 +4,7 @@
 
 Probably `Pliny the Elder`, circa ~350 before J-C Van Damme.
 
-## ❤
+## <span style="color: red">❤</span>
 
 - OOP
 - PHP >8 & SPL
